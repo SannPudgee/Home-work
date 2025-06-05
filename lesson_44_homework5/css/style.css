@@ -1,0 +1,26 @@
+
+*{
+    box-sizing: border-box;
+}
+main{
+    background: #e0dee1;
+    overflow: auto;
+    border: 1px solid #000;
+    width: 1000px;
+    height: 400px;
+    border-radius: 10px 0px 0px 10px;
+    padding: 10px 5px ;
+    padding-left: 0px;
+}
+div{
+    background-color: tan;
+    width: 200px;
+    height: 160px;
+    padding: 8px;
+    padding-left: 20px;
+    margin: 0px 5px 15px;
+    border-radius: 10%;
+    box-shadow: inset 2px 2px 2px #959090,inset 2px -2px 2px #959090,inset -2px 2px 2px #959090 ; 
+    display: inline-block;
+
+}
