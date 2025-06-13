@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(44, 44, 49);
+}
+
+.wrapper__inner {
+    color: rgb(104, 104, 99);
+}
+
+.wrapper__botton {
+    display: flex;
+    position: sticky;
+    bottom: 100px;
+}
+
+.wrapper__item {
+margin-left: auto;
+    left: 50%;
+    margin-right: 50px;
+    height: 80px;
+    width: 400px;
+
+}
+
+.wrapper__point {
+    position: relative;
+    top: 15px;
+    left: 60px;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    border-radius: 100%;
+
+}
+
+.wrapper__qued{
+height: 50px;
+width: 400px;
+background-color: white;
+border-radius: 8px;
+}
+
