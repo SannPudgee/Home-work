@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(44, 44, 49);
+}
+
+.main__inner {
+    background-color: black;
+    color: rgb(104, 104, 99);
+}
+
+.main__botton {
+    display: flex;
+    height: auto;
+    position: static;
+}
+
+.main__flex {
+    display: flex;
+}
+
+.main__item {
+    position: fixed;
+    left: 50%;
+    bottom:0px;
+    right: 50px;
+    margin-bottom: 100px;
+
+}
+
+.main__point {
+    position: relative;
+    top: 15px;
+    left: 60px;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    border-radius: 100%;
+
+}
+
+.main__qued{
+height: 50px;
+width: 400px;
+background-color: white;
+border-radius: 8px;
+}
+
