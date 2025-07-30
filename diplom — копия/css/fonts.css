@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Muller';
+    src: local('Muller Medium'), local('Muller-Medium'),
+        url('../fonts/Muller-Medium.woff2') format('woff2'),
+        url('../fonts/Muller-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller';
+    src: local('MullerRegular'),
+        url('../fonts/MullerRegular.woff2') format('woff2'),
+        url('../fonts/MullerRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller';
+    src: local('Muller Black'), local('MullerBlack'),
+        url('../fonts/MullerBlack.woff2') format('woff2'),
+        url('../fonts/MullerBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller';
+    src: local('MullerBold'),
+        url('../fonts/MullerBold.woff2') format('woff2'),
+        url('../fonts/MullerBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller ExtraBold DEMO';
+    src: local('Muller ExtraBold DEMO'), local('MullerExtraBoldDEMO'),
+        url('../fonts/MullerExtraBoldDEMO.woff2') format('woff2'),
+        url('../fonts/MullerExtraBoldDEMO.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
